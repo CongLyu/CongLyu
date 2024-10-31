@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CongLyu
 - 👀 I’m interested in jogging & fps games
-- 🌱 I’m currently learning mat + sta
+- 🌱 I'm a master in mat + sta
 - 📫 How to reach me lcong576@gmail.com
 
 <!---
